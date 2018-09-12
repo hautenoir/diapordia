@@ -1,0 +1,28 @@
+Una inteligencia artificial descubre 72 señales de radio de origen desconocido
+
+Un avanzado sistema de aprendizaje maquinal ha localizado decenas de estallidos rápidos de radio (FRBs), un tipo de señal cuya causa no es conocida, pero procedente del núcleo de una galaxia situada a 3.000 millones de años luz
+
+En 2007 astrónomos australianos detectaron el primero de una extraña serie de fenómenos al que pusieron el nombre de estallidos rápidos de radio (en inglés, «Fast Radio Burst» o FRB). Son una serie de pulsos de radio de muy alta energía que apenas duran unos cuantos milisegundos y que parecen proceder de fuera de la Vía Láctea. Sin embargo, durante este tiempo no se ha podido esclarecer su origen, e incluso algunos han especulado con que hubieran sido creados por extraterrestres. ¿Qué otra cosa puede producir esas explosiones de energía tan intensas pero efímeras en la longitud de onda de las radiofrecuencias?
+
+El año pasado, los investigadores situaron por fin el origen de uno de estos estallidos, llamado FRB 121102, en el núcleo activo de una pequeña galaxia situada a 3.000 millones de años luz de la Tierra. Una de sus peculiaridades, según se averiguó entonces, es que esta señal se repite cada cierto tiempo. Ahora, los investigadores del Breaktrough Listen, un proyecto de búsqueda de vida inteligente (SETI, en inglés) de la Universidad de California en Berkeley (EE.UU.), ha descubierto un total de 72 estallidos rápidos de radio en dicha fuente usando técnicas de inteligencia artificial. Sus resultados han sido aceptados para ser publicados en The Astrophysical Journal.
+
+«Este trabajo es muy interesante no solo porque ayuda a comprender el comportamiento dinámico de los estallidos rápidos de radio, sino también porque muestra que la inteligencia artificial puede detectar señales pasadas por alto por algoritmos clásicos», ha dicho en un comunicado Andrew Siemion, director Centro de Investigación SETI de Berkeley e investigador principal de Breaktrough Listen.
+Señales de origen desconocido
+
+Por lo que sabemos hasta el momento, los estallidos rápidos de radio (FRBs) solo duran durante unos cuantos milisegundos y proceden de galaxias distantes. Se desconoce cuál puede ser su origen. Entre las teorías más aceptadas está que procedan de estrellas de neutrones altamente magnetizadas y bombardeadas por corrientes de gas procedentes de agujeros negros supermasivos.
+
+Otras teorías sostienen que su origen podría estar en civilizaciones extraterrestres avanzadas. Por eso Breaktrough Listen está aplicando sus avanzados algoritmos para detectar señales que pudieran ser producidas con un propósito y no por la naturaleza.
+
+En esta ocasión, los algoritmos se pusieron a analizar los datos recogidos por un gran radiotelescopio, el Green Bank, situado en Virginia occidental (EE.UU.) durante cinco horas completas, el pasado 26 de agosto de 2017. En un trabajo anterior, allí se captaron 21 estalllidos en un periodo de una hora.
+FRB 121102, la misteriosa fuente
+
+En esta ocasión, el estudiante Gerry Zhang y otros han desarrollado un nuevo algoritmo para analizar los mismos datos, que acumularon un total de 400 terabytes de información. Así han captado 72 nuevos FRBs. En total, desde que FRB 121102 se descubrió en 2012, se han descubierto ahí 300 de estos estallidos rápidos.
+
+«Este trabajo es solo el primero que ha usado estos poderosos métodos para encontrar estos eventos de radio», ha dicho Zhang. «Esperamos que nuestro éxito pueda inspirar otras búsquedas serias centradas en aplicar la inteligencia artificial a la radioastronomía».
+Parecido al motor de búsqueda de Google
+
+Curiosamente, la técnica usada por Zhang tiene algo en común con la optimización de los motores de búsqueda (SEO) destinada a clasificar imágenes. Básicamente, Zhang y los demás lograron entrenar a un algoritmo para reconocer estallidos ya detectados por otros investigadores. A continuación, lo pusieron a trabajar con el grueso de los datos para tratar de identificar estallidos no encontrados antes.
+
+Los nuevos resultados han permitido aprender sobre la periodicidad de los estallidos procedentes de FRB 121102, lo que es clave para las hipótesis de búsqueda de vida alienígena. Pues bien, los datos muestran que los pulsos no se reciben en patrones regulares, al menos si el periodo de repetición considerado es mayor de 10 milisegundos.
+
+Sin embargo, todo esto ayudará, según Siemion, a estrechar el cerco sobre las potenciales fuentes de estos FRBs. Por ello, este investigador ha dicho que, tanto si los FRBs provienen de civilizaciones alienígenas como si no, escucharlos con esta avanzada tecnología «está ayudándonos a empujar las fronteras del conocimiento» y «nuestra comprensión del Universo que nos rodea».
