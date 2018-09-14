@@ -1,0 +1,20 @@
+Un plan reducirá la invasión de las 10.000 cotorras argentinas
+
+El Ayuntamiento limitará los químicos en zonas verdes y controlará la plaga «sin sufrimiento»
+
+El Ayuntamiento de Madrid estima que en la capital hay en torno a 10.000 cotorras argentinassobrevolando y anidando en diferentes espacios verdes y hay que reducir su presencia. La apariencia agradable de este simpático alado contrasta con la afirmación de que se ha convertido en la peor plaga invasora de la ciudad, como ayer reconoció la delegada Inés Sabanés tras anunciar la modificación de la ordenanza de Medio Ambiente Urbano. Hasta ahora, desde Madrid Salud sólo se procedía a la retirada de los nidos de estas aves cuando constituían un peligro de seguridad para la población, pero ya urge la necesidad de reducir su presencia con medidas de mayor calado, que impliquen el menor sufrimiento para estos animales y con una acción coordinada con otros municipios limítrofes a la capital.
+
+«Se ha convertido en un problema para la conservación de la biodiversidad en los parques y en un agente de riesgo para la población por la peligrosidad de caída de sus nidos», informan desde el área de Medio Ambiente. Además, añaden, son vectores de diversas enfermedades.
+
+Actuación supramunicipal
+El equipo de Gobierno pretende ponerse manos a la obra para diseñar un plan eficaz que limite el impacto que la presencia de esta y otras especies exóticas generan en el medio ambiente urbano. Detallaron desde el departamento de Sabanés que, próximamente, desde la Sociedad Española de Ornitología (SEO), en colaboración con el Ayuntamiento y con otras sociedades científicas y de técnicos municipales expertos en la materia se van a organizar unas jornadas para conocer los últimos procedimientos de control:«Queremos abordar el problema de una manera supramunicipal, adaptándonos a la distribución geográfica de las cotorras y no a las limitaciones provocadas por las divisiones administrativas. Sin esta visión general, la eficacia y la eficiencia se verán mermadas». Pozuelo de Alarcón, Getafe, Leganés, Coslada, Alcobendas, Las Rozas o Majadahonda son algunos de los municipios con los que tendrán que hablar.
+
+
+El Ayuntamiento todavía no sabe cómo acabar con esta plaga, pero tiene claro que causando «el menor daño y sufrimiento» a las cotorras. En los últimos meses ha mantenido reuniones con distintas organizaciones protectoras de animales para conocer diferentes técnicas que podrían aplicar. «Es necesario adoptar aquellas medidas de control, tal y como nos marca la normativa estatal vigente sobre este tipo de especies, pero no por ello dichas medidas han de estar exentas de la sensibilidad necesaria», remachan.
+
+No existe un censo por zonas de esta especie. El Consistorio asegura que se está haciendo un seguimiento constante y minucioso de estas especies para recabar más información de su influencia sobre el medio, sobre su estatus sanitario y posible repercusión en la ciudadanía. Los primeros avistamientos en Madrid de los también llamados pericos monjes argentinos datan de 1985, según fuentes de Medio Ambiente.
+
+Menos insecticidas
+La Junta de Gobierno aprobó este jueves, en fase inicial, la modificación de la ordenanza de Medio Ambiente Urbano que afecta a la protección de las zonas verdes de la ciudad mediante la reformulación de los artículos 201 y 202. El objetivo que persiguen es «adaptar la norma a la realidad actual de la ciudad y a los cambios normativos», ya que el texto data del año 1985. Los puntos retocados hacen referencia a la adopción de prácticas ambientalmente sostenibles en el control de plagas, enfermedades y especies exóticas invasoras, en el tratamiento de vegetación espontánea adventicia y en la limpieza y ornato de los parques y jardines de titularidad municipal.
+
+Atendiendo a la directiva europea 2009/128 se va a reducir de forma sustancial el uso de productos químicos para el control y manejo de plagas y enfermedades en zonas municipales. El texto se someterá a periodo de alegaciones durante un mes. Tras sus consideraciones pasará a aprobación definitiva.
